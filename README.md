@@ -16,6 +16,13 @@ Description:
         - Can join and leave the groups
         - Can chat with other users in groups
 
+![Screenshot](lib/shared/signup.jpg)
+![Screenshot](lib/shared/login.jpg)
+![Screenshot](lib/shared/creating_group.jpg)
+![Screenshot](lib/shared/searching_group.jpg)
+![Screenshot](lib/shared/exiting%20group.jpg)
+![Screenshot](lib/shared/logout.jpg)
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ## Getting Started
