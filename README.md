@@ -46,4 +46,6 @@ However, if you are want to know my constant.dart file structure, here's one ima
 
 ![Screenshot](lib/shared/constant_file_screenshot.jpg)
 
+Images in the assets folder aren't mine. All credits to the respective owners
+
                                                                                 - Naresh Sharma
